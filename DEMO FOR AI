@@ -1,0 +1,13 @@
+# Even Number Sum Calculator
+
+## Project Goal
+The goal of this project is to build a simple Python program that calculates the sum of two even numbers. This project helps beginners understand basic Python programming concepts such as variables, input, conditions, and arithmetic operations.
+
+## Problem Statement
+Many beginner programmers struggle to understand how to validate numbers and perform simple calculations using Python. This project solves that problem by creating a program that accepts two numbers from the user and calculates their sum only if they are even numbers.
+
+## Planned Tools
+- Python
+- Git
+- GitHub
+- Jupyter Notebook
